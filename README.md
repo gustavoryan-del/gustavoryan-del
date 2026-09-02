@@ -25,7 +25,7 @@
 </td>
 <td><a href="https://www.instagram.com/gustavo__ryan_/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/gustavo-ryan-gomes-guedes-6109833b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <!-- <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td> -->
