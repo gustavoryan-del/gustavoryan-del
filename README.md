@@ -19,7 +19,7 @@
 </td>
 <td><a href="https://github.com/gustavoryan-del" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:gomesguedesg484@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:gryangomesguedes@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531983940967" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -139,9 +139,13 @@
 ----- -->
 
 
+-----
+
+-----
+
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Gustavo's Spotify Data</summary>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Ryan's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ear2ooejwizlhlrvhnkeuqfviy" alt="Data Card for Spotify"/>
 </details>
 </div>
@@ -153,17 +157,27 @@
 </tr> 
 <tr>
 <td>
-<img alt="Spotify" width="400px" height="540px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ear2ooejwizlhlrvhnkeuqfviy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<img alt="Spotify" width="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ear2ooejwizlhlrvhnkeuqfviy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
 <td>
-<img alt="Spotify list" width="400px" height="540px" src="https://spotify-recently-played-readme.vercel.app/api?user=31ear2ooejwizlhlrvhnkeuqfviy&count=10"/>
+<!-- <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31ear2ooejwizlhlrvhnkeuqfviy&count=10"/> -->
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ear2ooejwizlhlrvhnkeuqfviy&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="275px"/>
 </td>
-<td>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-</td>
-</tr>
+
 <tr>
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
 </div>
+
+----
+
+----
+ 
+ <tr>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+</tr>
+<tr>
+</table>
+</div>
+
