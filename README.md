@@ -81,11 +81,15 @@ Graduando no segundo período de Engenharia de Software pela Pontifícia Univers
 <td width="500px" >
 <div align="justify">
 <p> 
-- :man_student: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>alunol</code> no curso de Engenharia de Software.<br />
+<!-- - 🥇 Ganhei a <a href="https://www.limesmg.com.br/" target="_blank">LIMES</a> pelo Colégio Santo Antônio (CSA) nos anos de 2023 e 2025.<br /> -->
+- :medal_sports: Gosto de praticar esportes de modo geral, mas com destaque para os competitivos.<br />
+- :man_student: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>aluno</code> no curso de Engenharia de Software.<br />
 - :soccer: Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-<!-- - :chess_pawn: Meus hobbies são <a href="https://www.chess.com/home" target="_blank">Xadrez online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a> e violão.<br /> -->
+- :chess_pawn: Meus hobbies são <a href="https://www.chess.com/home" target="_blank">Xadrez online</a>, jogar futebol e jogar jogos de FPS, especialmente Valorant .<br />
 - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_3_tt_4_nm_3_in_1_q_Brea" target="_blank">Breaking Bad</a>. Atualmente estou assistindo <a href="https://www.imdb.com/pt/title/tt1196946/" target="_blank">The Mentalist</a>.<br />
 - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- :musical_note: Meu gosto musical é bem variado. <br />
+- 🥳: Gosto de sair com meus amigos e família.
 <!-- - :calendar: Essa é minha <a href="https://calendly.com/aramuni" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br /> -->
 <!-- - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações. -->
 </p>
