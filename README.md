@@ -50,6 +50,25 @@
 
 -----
 
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 18 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>aluno</code> no curso de Engenharia de Software <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://ryan.dev/">ryan.dev</a>
+</div>
+
+-----
+
+-----
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
+
+<div align="justify">
+Graduando em Engenharia de Software pela Pontifícia Universidade Católica de Minas Gerais - PUC Minas (início em 2026). Profissional em formação com forte inclinação para a área de tecnologia e desenvolvimento de sistemas, buscando ativamente sua primeira oportunidade de inserção no mercado de trabalho. Destaca-se por sua trajetória competitiva no esporte escolar, atuando como atleta de futsal pelo Colégio Santo Antônio, com participações contínuas nos campeonatos da Federação de Esportes Estudantis de Minas Gerais (FEEMG) entre 2022 e 2025. Disputou a Liga Mineira de Esportes (LIMES), sagrando-se campeão nas edições de 2023 e 2025, atuando como jogador titular em grande parte da campanha do título mais recente. Essa vivência esportiva lhe conferiu sólida base em trabalho de equipe, disciplina tática, resiliência, foco em resultados e tomada de decisão sob pressão — competências comportamentais de alto valor para atuação em squads ágeis de desenvolvimento de software. Mantém-se em constante atualização com as inovações do setor tecnológico e ecossistema de programação. Possui interesse e direcionamento de estudos nos campos de: Desenvolvimento de software, Lógica de programação, Resolução de problemas complexos e Colaboração em projetos de tecnologia. Perfil altamente motivado, focado na construção de uma carreira técnica de excelência e com plena disposição para aplicar conhecimentos acadêmicos em cenários e desafios reais da indústria tecnológica.
+</div>
+
+-----
+
+
+-----
+
 <div>
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
