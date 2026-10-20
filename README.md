@@ -51,7 +51,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 18 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>aluno</code> no curso de Engenharia de Software <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://ryan.dev/">gustavoryan,vercel.app</a>
+<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 18 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>aluno</code> no curso de Engenharia de Software <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://gustavoryan.vercel.app/">gustavoryan,vercel.app</a>
 </div>
 
 -----
