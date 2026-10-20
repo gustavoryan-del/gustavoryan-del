@@ -111,28 +111,35 @@ Graduando no segundo período de Engenharia de Software pela Pontifícia Univers
 -----
 
 -----
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>&nbsp;GitHub Stats:
+
+<div align="center">
+
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@43529b87-73e1-4546-a267-d2bf1489e108">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=43529b87-73e1-4546-a267-d2bf1489e108&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=43529b87-73e1-4546-a267-d2bf1489e108&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22&theme=dark" alt="WakaTime Stats" width="466" loading="lazy"/>
+</td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=43529b87-73e1-4546-a267-d2bf1489e108&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=43529b87-73e1-4546-a267-d2bf1489e108&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12&theme=dark" alt="WakaTime Stats" width="466" loading="lazy"/>
 </td>
 </tr>
 </table>
+
 <table>
 <tr>
  <td align="center" colspan="3"></td>
 </tr> 
 <tr>
 <td>
-<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/> -->
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=gustavoryan-del&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
 </td>
 <td>
-<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/> -->
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=gustavoryan-del&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 <td>
@@ -144,10 +151,36 @@ Graduando no segundo período de Engenharia de Software pela Pontifícia Univers
 </tr> 
 </table>
 
------
-<!-- <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=gustavoryan-del&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a> -->
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<img src="https://helio-github-stats.vercel.app/api?username=gustavoryan-del&custom_title=GitHub+Stats&theme=dark&title_color=fb8c00&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" />
+</td>
+<td>
+<img alt="GitHub Streak" width="485px" src="https://streak-stats.demolab.com?user=gustavoryan-del&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
 
-
+<table>
+<tr>
+ <td align="center"></td>
+</tr>
+<tr>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+</tr>
+<tr>
+ <td align="center"></td>
+</tr> 
+</table>
+</div>
+</div>
 
 -----
 
@@ -186,21 +219,9 @@ Graduando no segundo período de Engenharia de Software pela Pontifícia Univers
 <!-- <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31ear2ooejwizlhlrvhnkeuqfviy&count=10"/> -->
 <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ear2ooejwizlhlrvhnkeuqfviy&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="275px"/>
 </td>
-
+</tr>
 <tr>
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
 </div>
-
-----
-
-----
- 
- <tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
-</tr>
-<tr>
-</table>
-</div>
-
