@@ -32,8 +32,8 @@ Trago comigo uma forte bagagem do esporte escolar: integrei a equipe de futsal d
 ### 🐔 Interesses Pessoais
 
 - ⚽ **Atleticano fanático**, acompanho o [Galão da Massa](https://www.arenamrv.com.br/) sempre que posso.
-- 🏅 Esportes de alto rendimento e competitivos.
-- ♟️ Nas horas vagas, curto [Xadrez online](https://www.chess.com/home) e FPS (foco no Valorant).
+- 🏋️ **Nas horas vagas**, gosto de treinar na academia, jogar futebol e praticar esportes competitivos em geral.
+- ♟️ Também curto partidas de [Xadrez online](https://www.chess.com/home) e jogos de FPS (com foco no Valorant).
 - 📺 Séries favoritas: *Breaking Bad* e *The Mentalist*.
 
 ---
@@ -86,8 +86,6 @@ Trago comigo uma forte bagagem do esporte escolar: integrei a equipe de futsal d
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ear2ooejwizlhlrvhnkeuqfviy&count=5&width=500&radius=10&unique=1&duration=1&album=1&footer=wave&theme=dark&bg_color=000000" alt="Spotify recently played"/>
   </details>
 </div>
-
----
 
 <br>
 
