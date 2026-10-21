@@ -1,245 +1,77 @@
------
-
-<div>
-<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header.png"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Gustavo%20Ryan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Preto e Branco" />
 </div>
-
------
-
------
 
 <div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
-<!-- <td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a> -->
-</td>
-<td><a href="https://github.com/gustavoryan-del" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="mailto: gryangomesguedes@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5531983940967" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/gustavo__ryan_/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/gustavo-ryan-gomes-guedes-6109833b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<!-- <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td> -->
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
-<!-- <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://joaopauloaramuni.github.io/image/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td> -->
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
+  <a href="https://github.com/gustavoryan-del" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-ryan-gomes-guedes-6109833b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gryangomesguedes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5531983940967" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gustavo__ryan_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://gustavoryan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
 </div>
 
------
-
------
+<br>
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 18 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>aluno</code> no curso de Engenharia de Software <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://gustavoryan.vercel.app/">gustavoryan.vercel.app</a>
+  <i><b>Olá!</b> 👋 Sou o <code>Gustavo</code>, tenho 18 anos, moro em Belo Horizonte/MG e atuo como programador. Atualmente, sou aluno de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. Aqui no meu GitHub, você encontra meus estudos, projetos e evolução no desenvolvimento de software.</i>
 </div>
 
------
+---
 
------
+### ⚪⚫ Sobre mim
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
+Graduando do segundo período de Engenharia de Software. Sou apaixonado pelo ecossistema **Java** (especialmente o framework **Spring Boot** para back-end), além de ter sólidos conhecimentos em **Python** e front-end (HTML, CSS e JavaScript). 
 
-<div align="justify">
-Graduando no segundo período de Engenharia de Software pela Pontifícia Universidade Católica de Minas Gerais - PUC Minas. Profissional em formação com forte inclinação para a área de tecnologia e desenvolvimento de sistemas, buscando ativamente sua primeira oportunidade de inserção no mercado de trabalho. Possui o ecossistema Java como principal stack de desenvolvimento, com ênfase no framework Spring Boot para construção de aplicações back-end, além de deter conhecimentos em Python e tecnologias front-end (HTML, CSS e JavaScript). Destaca-se por sua trajetória no esporte escolar, integrando a equipe de futsal do Colégio Santo Antônio entre 2020 e 2025. Durante esse período, disputou diversos campeonatos de nível competitivo, incluindo as competições da Federação de Esportes Estudantis de Minas Gerais (FEEMG) e da Liga Mineira de Esportes (LIMES). Essa vivência esportiva contínua lhe conferiu sólida base em trabalho de equipe, disciplina, resiliência, foco em resultados e tomada de decisão sob pressão — competências comportamentais essenciais para atuação colaborativa em squads ágeis de desenvolvimento de software. Mantém-se em constante atualização com as inovações do setor tecnológico e possui interesse e direcionamento de estudos nos campos de: Desenvolvimento web, Lógica de programação, Engenharia de Software, Resolução de problemas complexos e Arquitetura de sistemas. Perfil altamente motivado, focado na construção de uma carreira técnica de excelência e com plena disposição para aplicar conhecimentos acadêmicos em cenários e desafios reais da indústria tecnológica.
-</div>
+Trago comigo uma forte bagagem do esporte escolar: integrei a equipe de futsal do Colégio Santo Antônio de 2020 a 2025, disputando competições de alto nível (FEEMG e LIMES). Essa vivência me ensinou o real significado de **trabalho em equipe, disciplina, resiliência e foco em resultados** — habilidades que hoje aplico na resolução de problemas complexos e no desenvolvimento ágil de sistemas.
 
------
+---
 
------
+### 🐔 Interesses Pessoais
 
-<div>
+- ⚽ **Atleticano fanático**, acompanho o [Galão da Massa](https://www.arenamrv.com.br/) sempre que posso.
+- 🏅 Esportes de alto rendimento e competitivos.
+- ♟️ Nas horas vagas, curto [Xadrez online](https://www.chess.com/home) e FPS (foco no Valorant).
+- 📺 Séries favoritas: *Breaking Bad* e *The Mentalist*.
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
+---
 
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td width="500px" >
-<div align="justify">
-<p> 
-<!-- - 🥇 Ganhei a <a href="https://www.limesmg.com.br/" target="_blank">LIMES</a> pelo Colégio Santo Antônio (CSA) nos anos de 2023 e 2025.<br /> -->
-- :medal_sports: Gosto de praticar esportes de modo geral, mas com destaque para os competitivos.<br />
-- :man_student: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>aluno</code> no curso de Engenharia de Software.<br />
-- :soccer: Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :chess_pawn: Meus hobbies são <a href="https://www.chess.com/home" target="_blank">Xadrez online</a>, jogar futebol e jogar jogos de FPS, especialmente Valorant .<br />
-- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_3_tt_4_nm_3_in_1_q_Brea" target="_blank">Breaking Bad</a>. Atualmente estou assistindo <a href="https://www.imdb.com/pt/title/tt1196946/" target="_blank">The Mentalist</a>.<br />
-- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :musical_note: Meu gosto musical é bem variado. <br />
-- 🥳: Gosto de sair com meus amigos e família.
-<!-- - :calendar: Essa é minha <a href="https://calendly.com/aramuni" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br /> -->
-<!-- - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações. -->
-</p>
-</div>
-</td>
-<td>
-<div>
-<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
-</div>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-
-</div>
-
------
-
------
-
-## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp; Linguagens e tecnologias:
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=88d1ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=740094)
-![C++](https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=cplusplus&logoColor=88d1ff)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=740094)
-![Spring](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring&logoColor=88d1ff)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=740094)
-![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5&logoColor=88d1ff)
-![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css&logoColor=740094)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=88d1ff)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-111?style=for-the-badge&logo=thymeleaf&logoColor=740094)
-![JSON](https://img.shields.io/badge/JSON-111?style=for-the-badge&logo=json&logoColor=88d1ff)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=740094)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=88d1ff)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-111?style=for-the-badge&logo=intellijidea&logoColor=740094)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=88d1ff)
-
-</div>
-
------
-
------
-
-<div>
-
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>&nbsp;GitHub Stats:
+### 💻 Tecnologias e Ferramentas
 
 <div align="center">
-
-<table>
-<tr>
- <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@43529b87-73e1-4546-a267-d2bf1489e108">WakaTime</a></td>
-</tr> 
-<tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=43529b87-73e1-4546-a267-d2bf1489e108&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22&theme=dark" alt="WakaTime Stats" width="466" loading="lazy"/>
-</td>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=43529b87-73e1-4546-a267-d2bf1489e108&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12&theme=dark" alt="WakaTime Stats" width="466" loading="lazy"/>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=gustavoryan-del&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
-</td>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=gustavoryan-del&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
-</td>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=gustavoryan-del&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
-
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<img src="https://helio-github-stats.vercel.app/api?username=gustavoryan-del&custom_title=GitHub+Stats&theme=dark&title_color=fb8c00&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" />
-</td>
-<td>
-<img alt="GitHub Streak" width="485px" src="https://streak-stats.demolab.com?user=gustavoryan-del&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-
-</div>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-000000?style=for-the-badge&logo=thymeleaf&logoColor=white">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
------
+---
 
-<p align="center">
+### 📊 GitHub & WakaTime Stats
+
+<div align="center">
+  <img src="https://helio-github-stats.vercel.app/api?username=gustavoryan-del&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&show_icons=true&hide_border=true&locale=pt-br" alt="GitHub Stats" height="170" />
+  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=gustavoryan-del&layout=donut-vertical&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&locale=pt-br&langs_count=5" alt="Linguagens mais usadas" height="170" />
+  <br><br>
+  <img src="https://helio-github-stats.vercel.app/api/wakatime?username=43529b87-73e1-4546-a267-d2bf1489e108&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=10" alt="WakaTime Stats" width="550" />
+</div>
+
+---
+
+### 🎵 O que estou ouvindo
+
+<div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ear2ooejwizlhlrvhnkeuqfviy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ear2ooejwizlhlrvhnkeuqfviy&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" alt="Spotify Currently Playing">
   </a>
-</p>
-
------
-
------
-
-<div>
-<details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Gustavo's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ear2ooejwizlhlrvhnkeuqfviy" alt="Data Card for Spotify"/>
-</details>
+  <br><br>
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ear2ooejwizlhlrvhnkeuqfviy&count=5&width=500&radius=10&unique=1&duration=1&album=1&footer=wave&theme=dark&bg_color=000000" alt="Spotify recently played"/>
 </div>
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="Spotify" width="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ear2ooejwizlhlrvhnkeuqfviy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-</td>
-<td>
-<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ear2ooejwizlhlrvhnkeuqfviy&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="275px"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
-</div>
-
------
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/output/pacman-contribution-graph.svg">
-</picture>
