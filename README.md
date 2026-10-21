@@ -86,3 +86,19 @@ Trago comigo uma forte bagagem do esporte escolar: integrei a equipe de futsal d
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ear2ooejwizlhlrvhnkeuqfviy&count=5&width=500&radius=10&unique=1&duration=1&album=1&footer=wave&theme=dark&bg_color=000000" alt="Spotify recently played"/>
   </details>
 </div>
+
+---
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/output/pacman-contribution-graph.svg">
+  </picture>
+  
+  <br><br>
+  
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer"/>
+</div>
