@@ -51,7 +51,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 18 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>aluno</code> no curso de Engenharia de Software <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://gustavoryan.vercel.app/">gustavoryan,vercel.app</a>
+<i><b>Olá</b> :wave:, sou o <code>Gustavo</code>, tenho 18 anos, moro em BH e sou programador desde os 18 anos de idade. Atualmente sou <code>aluno</code> no curso de Engenharia de Software <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://gustavoryan.vercel.app/">gustavoryan.vercel.app</a>
 </div>
 
 -----
@@ -65,7 +65,6 @@ Graduando no segundo período de Engenharia de Software pela Pontifícia Univers
 </div>
 
 -----
-
 
 -----
 
@@ -105,6 +104,31 @@ Graduando no segundo período de Engenharia de Software pela Pontifícia Univers
  <td align="center" colspan="2"></td>
 </tr> 
 </table>
+
+</div>
+
+-----
+
+-----
+
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp; Linguagens e tecnologias:
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=88d1ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=740094)
+![C++](https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=cplusplus&logoColor=88d1ff)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=740094)
+![Spring](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring&logoColor=88d1ff)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=740094)
+![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5&logoColor=88d1ff)
+![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css&logoColor=740094)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=88d1ff)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-111?style=for-the-badge&logo=thymeleaf&logoColor=740094)
+![JSON](https://img.shields.io/badge/JSON-111?style=for-the-badge&logo=json&logoColor=88d1ff)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=740094)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=88d1ff)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-111?style=for-the-badge&logo=intellijidea&logoColor=740094)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=88d1ff)
 
 </div>
 
@@ -168,17 +192,6 @@ Graduando no segundo período de Engenharia de Software pela Pontifícia Univers
 </tr> 
 </table>
 
-<table>
-<tr>
- <td align="center"></td>
-</tr>
-<tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
-</tr>
-<tr>
- <td align="center"></td>
-</tr> 
-</table>
 </div>
 </div>
 
@@ -189,11 +202,6 @@ Graduando no segundo período de Engenharia de Software pela Pontifícia Univers
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ear2ooejwizlhlrvhnkeuqfviy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
   </a>
 </p>
-
-<!-- -----
-<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=gustavoryan-del&color=green&style=for-the-badge&abbreviated=true" alt="Profile Views" loading="lazy" /></a>
------ -->
-
 
 -----
 
@@ -216,7 +224,6 @@ Graduando no segundo período de Engenharia de Software pela Pontifícia Univers
 <img alt="Spotify" width="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ear2ooejwizlhlrvhnkeuqfviy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
 <td>
-<!-- <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31ear2ooejwizlhlrvhnkeuqfviy&count=10"/> -->
 <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ear2ooejwizlhlrvhnkeuqfviy&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="275px"/>
 </td>
 </tr>
@@ -225,3 +232,14 @@ Graduando no segundo período de Engenharia de Software pela Pontifícia Univers
 </tr> 
 </table>
 </div>
+
+-----
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/output/pacman-contribution-graph.svg">
+</picture>
