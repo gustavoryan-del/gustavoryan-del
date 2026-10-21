@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Gustavo%20Ryan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Fullstack&descSize=25&descAlignY=65&descColor=FFD700&animation=fadeIn" alt="Header Gustavo Ryan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,3A3A3A&height=250&section=header&text=Gustavo%20Ryan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Fullstack&descSize=25&descAlignY=65&descColor=FFD700&animation=fadeIn" alt="Header Gustavo Ryan" />
 </div>
 
 <br>
@@ -98,5 +98,5 @@ Trago comigo uma forte bagagem do esporte escolar: integrei a equipe de futsal d
   
   <br><br>
   
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer"/>
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=3A3A3A,000000&section=footer"/>
 </div>
