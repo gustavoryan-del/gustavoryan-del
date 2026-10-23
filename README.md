@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=250&section=header&text=Gustavo%20Ryan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Fullstack&descSize=25&descAlignY=65&descColor=FFD700&animation=fadeIn" alt="Header Gustavo Ryan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Gustavo%20Ryan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Fullstack&descSize=25&descAlignY=65&descColor=FFD700&animation=fadeIn" alt="Header Gustavo Ryan" />
 </div>
 
 <br>
@@ -25,14 +25,14 @@
 
 Graduando do segundo período de Engenharia de Software. Sou apaixonado pelo ecossistema **Java** (especialmente o framework **Spring Boot** para back-end), além de ter sólidos conhecimentos em **Python** e front-end (HTML, CSS e JavaScript). 
 
-Trago comigo uma forte bagagem do desporto escolar: integrei a equipa de futsal do Colégio Santo Antônio de 2020 a 2025, disputando competições de alto nível (FEEMG e LIMES). Esta vivência ensinou-me o real significado de **trabalho em equipa, disciplina, resiliência e foco em resultados** — competências que hoje aplico na resolução de problemas complexos e no desenvolvimento ágil de sistemas.
+Trago comigo uma forte bagagem do esporte escolar: integrei a equipe de futsal do Colégio Santo Antônio de 2020 a 2025, disputando competições de alto nível (FEEMG e LIMES). Essa vivência ensinou-me o real significado de **trabalho em equipe, disciplina, resiliência e foco em resultados** — competências que hoje aplico na resolução de problemas complexos e no desenvolvimento ágil de sistemas.
 
 ---
 
 ### 🐔 Interesses Pessoais
 
 - ⚽ **Atleticano fanático**, acompanho o [Galão da Massa](https://www.arenamrv.com.br/) sempre que posso.
-- 🏋️ **Nas horas vagas**, gosto de treinar no ginásio, jogar futebol e praticar desportos competitivos em geral.
+- 🏋️ **Nas horas vagas**, gosto de treinar na academia, jogar futebol e praticar esportes competitivos em geral.
 - ♟️ Também curto partidas de [Xadrez online](https://www.chess.com/home) e jogos de FPS (com foco no Valorant).
 - 📺 Séries favoritas: *Breaking Bad* e *The Mentalist*.
 
@@ -98,6 +98,5 @@ Trago comigo uma forte bagagem do desporto escolar: integrei a equipa de futsal 
   
   <br><br>
   
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=151515&section=footer"/>
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer"/>
 </div>
-
