@@ -1,0 +1,24 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # a cada 6 horas
+  workflow_dispatch: # permite rodar manualmente na aba Actions
+
+permissions:
+  contents: write # necessário para o workflow atualizar o README
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 6
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          COMMIT_MESSAGE: "chore: atualiza métricas do WakaTime"
