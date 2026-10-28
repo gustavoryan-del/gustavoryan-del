@@ -29,15 +29,15 @@ Sou apaixonado pelo ecossistema **Java**, especialmente o **Spring Boot** no bac
 
 ```java
 public class Gustavo {
-
-    String cargo    = "Desenvolvedor Full Stack";
-    String formacao = "Engenharia de Software - PUC Minas";
-    String foco     = "Java + Spring Boot, APIs e código limpo";
+    private String cargo = "Desenvolvedor Full Stack";
+    private String formacao = "Engenharia de Software - PUC Minas";
+    private String foco = "Java + Spring Boot, APIs e código limpo";
 
     public static void main(String[] args) {
         System.out.println("Pronto para construir algo incrível. 🚀");
     }
 }
+
 ```
 
 ### 🏆 Bagagem do esporte
