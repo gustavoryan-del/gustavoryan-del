@@ -82,13 +82,14 @@ Integrei a equipe de **futsal do Colégio Santo Antônio de 2020 a 2025**, dispu
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:3B82F6,100:0A0A0A&height=2" width="100%" alt="divider" />
 
-## 📊 GitHub & WakaTime Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://helio-github-stats.vercel.app/api?username=gustavoryan-del&theme=dark&bg_color=0A0A0A&title_color=3B82F6&text_color=FFFFFF&icon_color=38BDF8&ring_color=0D6EFD&border_color=1E1E1E&border_radius=12&show_icons=true&locale=pt-br" alt="GitHub Stats" height="170" />
-  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=gustavoryan-del&layout=donut-vertical&theme=dark&bg_color=0A0A0A&title_color=3B82F6&text_color=FFFFFF&border_color=1E1E1E&border_radius=12&locale=pt-br&langs_count=5" alt="Linguagens mais usadas" height="170" />
-  <br><br>
-  <img src="https://helio-github-stats.vercel.app/api/wakatime?username=43529b87-73e1-4546-a267-d2bf1489e108&layout=compact&theme=dark&bg_color=0A0A0A&title_color=3B82F6&text_color=FFFFFF&border_color=1E1E1E&border_radius=12&langs_count=10" alt="WakaTime Stats" width="550" />
+  <img src="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas nos commits" width="48%" />
+  <br>
+  <img src="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositórios por linguagem" width="48%" />
+  <img src="https://raw.githubusercontent.com/gustavoryan-del/gustavoryan-del/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horário mais produtivo" width="48%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:3B82F6,100:0A0A0A&height=2" width="100%" alt="divider" />
