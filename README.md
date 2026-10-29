@@ -34,7 +34,7 @@ public class Gustavo {
     private String foco = "Java + Spring Boot, APIs e código limpo";
 
     public static void main(String[] args) {
-        System.out.println("Pronto para construir algo incrível. 🚀");
+        System.out.println("Hello World!");
     }
 }
 
